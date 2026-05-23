@@ -1,0 +1,26 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+Gemfile.lock
+
+# WordPress source material — kept locally only, too big / not site content
+*.xml
+wp-content/
+attachment_urls.txt
+download_failures.txt
+download_attachments.sh
+
+# Local planning notes (not part of the website)
+page_inventory.md
+drop_list.md
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~

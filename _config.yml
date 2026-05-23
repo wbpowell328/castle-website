@@ -1,0 +1,33 @@
+title: CASTLE Lab
+description: >-
+  Warren B. Powell — Sequential Decision Analytics, Reinforcement Learning,
+  Stochastic Optimization. Princeton ORFE.
+author: Warren B. Powell
+
+# URL settings for GitHub Pages preview at https://wbpowell328.github.io/castle-website/
+url: "https://wbpowell328.github.io"
+baseurl: "/castle-website"
+
+# Default theme (will swap for an academic theme once basics work)
+theme: minima
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude these from the published site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md
+  - "*.xml"
+  - wp-content/
+  - attachment_urls.txt
+  - download_failures.txt
+  - download_attachments.sh
+  - page_inventory.md
+  - drop_list.md
