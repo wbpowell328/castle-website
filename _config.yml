@@ -8,8 +8,8 @@ author: Warren B. Powell
 url: "https://wbpowell328.github.io"
 baseurl: "/castle-website"
 
-# Default theme (will swap for an academic theme once basics work)
-theme: minima
+# No parent theme — we ship our own layouts in _layouts/ and CSS in
+# assets/css/main.css. Plugins below still work.
 
 # Tell Jekyll to also process pages in the _pages/ folder
 include:
