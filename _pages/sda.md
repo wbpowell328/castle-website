@@ -5,6 +5,7 @@ permalink: /sda/
 date: 2021-01-18 11:33:18
 ---
 
+{% raw %}
 <p>Warren B Powell <br />Professor Emeritus, Princeton University<br />Chief innovation officer, Optimal Dynamics</p>
 <h2>Introductory Material</h2>
 <ul>
@@ -266,3 +267,4 @@ date: 2021-01-18 11:33:18
 <!-- wp:tadv/classic-paragraph /-->
 
 <!-- wp:tadv/classic-paragraph /-->
+{% endraw %}

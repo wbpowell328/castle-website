@@ -5,6 +5,7 @@ permalink: /the-market-for-reinforcement-learning-and-stochastic-optimization-a-
 date: 2021-08-22 16:54:48
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p>Warren B Powell<br>Professor Emeritus, Princeton University</p>
 <!-- /wp:tadv/classic-paragraph -->
@@ -34,3 +35,4 @@ date: 2021-08-22 16:54:48
 <!-- wp:tadv/classic-paragraph /-->
 
 <!-- wp:tadv/classic-paragraph /-->
+{% endraw %}

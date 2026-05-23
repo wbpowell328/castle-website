@@ -15,15 +15,15 @@ theme: minima
 include:
   - _pages
 
-# WordPress-converted pages are pure content — don't try to interpret
-# Liquid template syntax ({{ }} / {% %}) in them. This avoids errors when
-# math/code happens to contain curly braces.
+# Give every page in _pages/ the "page" layout by default.
+# Liquid is suppressed per-page by wrapping bodies in {% raw %}...{% endraw %}
+# during the WordPress conversion (Jekyll 3.x on GitHub Pages doesn't support
+# the front-matter render_with_liquid flag).
 defaults:
   - scope:
       path: "_pages"
     values:
       layout: page
-      render_with_liquid: false
 
 # Build settings
 markdown: kramdown

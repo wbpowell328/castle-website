@@ -5,6 +5,7 @@ permalink: /sdalinks/
 date: 2022-05-07 11:43:59
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;">Warren B. Powell <br />Professor Emeritus, Princeton University    </p>
 <p>I have been accumulating a number of links to pages on "sequential decision<img class="size-medium wp-image-7108 alignright" src="https://castle.princeton.edu/wp-content/uploads/2021/09/Powell-RLSO-WIleyFrontCover-199x300.jpg" alt="" width="199" height="300" /> analytics" and my new book, <em>Reinforcement Learning and Stochastic Optimization</em>.  Also, I have been using "tinyurl" links because they are easier to remember (and I can track traffic), but not everyone can use these links.  This page will list the most interesting resources, including both the "tinyurl" link and the original link.  Please use the "tinyurl" link if you can, so I can see which links are attracting the most interest.  </p>
@@ -122,3 +123,4 @@ date: 2022-05-07 11:43:59
 <!-- wp:tadv/classic-paragraph /-->
 
 <!-- wp:tadv/classic-paragraph /-->
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /the-7-levels-of-ai/
 date: 2024-11-25 12:42:29
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;"><span style="font-weight: 400;">Warren B. Powell</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Professor Emeritus, Princeton University</span></p>
 <p style="text-align: center;"><span style="font-weight: 400;">Revised March 19, 2026</span></p>
@@ -88,3 +89,4 @@ date: 2024-11-25 12:42:29
 <li style="font-weight: 400;" aria-level="1">The case can be made that most day-to-day human behavior, which certainly requires intelligence, represents a form of mimicry.  While universities aspire to teach higher-level thinking, our educational system is founded on teaching students how to write well, how to solve well-structured problems, and what to do in certain situations.  Medical schools and the medical literature are dominated by teaching “medical protocol” (that is, what to do in a specific situation). All of this is mimicry.  From this background, a few students emerge who exhibit truly independent thinking. </li>
 </ol>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

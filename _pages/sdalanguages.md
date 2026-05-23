@@ -5,6 +5,7 @@ permalink: /sdalanguages/
 date: 2022-01-19 16:20:44
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p>Warren B. Powell, Professor Emeritus, Princeton University<br />wbpowell328@gmail.com</p>
 <p>I spent a career working on a wide range of problems that involve making decisions<img class="size-medium wp-image-7006 alignright" src="https://castle.princeton.edu/wp-content/uploads/2021/08/jungle-300x223.jpg" alt="" width="300" height="223" /> over time, as new information is arriving.  This problem class arises in virtually any human activity spanning science and engineering, energy, economics and finance, health, business and the social sciences.  I refer to these as <em>sequential decision problems</em> which has attracted the attention of at least 15 distinct research communities that focus on methodology (I am not counting the myriad application domains).  I came to call this the "jungle of stochastic optimization," as this captured the diversity among the communities.</p>
@@ -17,3 +18,4 @@ date: 2022-01-19 16:20:44
 <p>Designing a common language helps to expose the differences in the languages used by the different communities.  At the same time, it highlights the benefits of a common language, since each community has contributed different methods for solving problems.  However, there is a big gap between creating a common language, and having everyone speak it. </p>
 <p>An even bigger challenge than bridging different methodological communities is reaching out to the myriad application domains, where the most important issues are 1) the accessibility of the mathematics, 2) the ability to represent the problems within a problem domain, and 3) the ability to offer practical, implementable tools that work for a problem class.</p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

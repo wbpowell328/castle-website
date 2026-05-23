@@ -5,6 +5,7 @@ permalink: /drug-discovery/
 date: 2017-09-07 11:45:10
 ---
 
+{% raw %}
 &nbsp;
 
 <span style="font-size: small;">Optimal Learning for Drug Discovery in Ewing's Sarcoma</span>
@@ -26,3 +27,4 @@ date: 2017-09-07 11:45:10
 <p align="left"><a href="http://castle.princeton.edu/Papers/FrazierPowell_KnowledgeGradientJournalPaper.04092008.pdf" target="_blank" rel="noopener">Frazier, P., W. B. Powell and S. Dayanik, “A Knowledge Gradient Policy for Sequential Information Collection,” SIAM J. on Control and Optimization, Vol. 47, No. 5, pp. 2410-2439 (2008).</a> - This is the original theory paper setting up the knowledge gradient algorithm with independent beliefs.</p>
 <p align="left"><a href="http://castle.princeton.edu/Papers/FrazierPowell_CorrelatedKnowledgeGradient10232008.pdf" target="_blank" rel="noopener">P. Frazier, W. B. Powell, S. Dayanik, “The Knowledge-Gradient Policy for Correlated Normal Beliefs,” Informs Journal on Computing (to appear).</a> - This paper introduces the knowledge gradient algorithm for correlated beliefs. It is limited to problems where the number of potential alternatives to measure is not too large (say, &lt; 1000).</p>
 <p align="left"></p>
+{% endraw %}

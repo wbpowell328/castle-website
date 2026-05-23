@@ -5,6 +5,7 @@ permalink: /awards/
 date: 2017-07-16 23:48:06
 ---
 
+{% raw %}
 Any research laboratory likes to highlight awards that it has received as a measure of the recognition of the work. At CASTLE Lab, we are particularly proud of the recognition that students in the lab have received for their research.
 <h2>General Awards</h2>
 <ul>
@@ -43,3 +44,4 @@ Any research laboratory likes to highlight awards that it has received as a meas
  	<dt>Dr. Hugo Simao *87</dt>
  	<dd>Honorable Mention, 1987 Transportation Dissertation Prize Competition. Dissertation title: <i>Numerical, Discrete Time Simulation of Transportation Queueing Networks</i></dd>
 </dl>
+{% endraw %}

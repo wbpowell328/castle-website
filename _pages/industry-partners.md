@@ -5,6 +5,7 @@ permalink: /industry-partners/
 date: 2017-09-07 12:00:00
 ---
 
+{% raw %}
 <h2>The Air Mobility Command</h2>
 <img src="http://castle.princeton.edu/html/Resources/Image22.gif" width="470" height="353" align="LEFT" border="0" />
 
@@ -72,3 +73,4 @@ date: 2017-09-07 12:00:00
 <span style="font-size: 12pt;"><img src="http://castle.princeton.edu/html/Resources/Image31.gif" width="347" height="243" align="LEFT" border="0" />Each of our corporate partners has taught us something significant about their particular brand of resource management problem. Triple Crown taught us how to solve short-haul problems, quickly, and under uncertainty. Triple Crown manages a special type of trailer called a "RoadRailer" which can run over the road, or be pulled by a locomotive over rails (with the addition of a rail wheelset). Our problem was to handle the truck side, where the challenge was to schedule drivers over a sequence of relatively short loads. Since new loads are called in continuously, and because dispatchers to not always follow the recommendations of the model, we have the problem of scheduling drivers through a sequence of loads.</span>
 
 
+{% endraw %}

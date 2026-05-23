@@ -5,6 +5,7 @@ permalink: /cfa/
 date: 2021-01-19 19:39:42
 ---
 
+{% raw %}
 <!-- [if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
@@ -808,3 +809,4 @@ See also chapter 13 of <em><a href="https://tinyurl.com/RLandSO/">Reinforcement
 <!-- /wp:post-content -->
 
 <!-- wp:tadv/classic-paragraph /-->
+{% endraw %}

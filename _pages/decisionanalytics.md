@@ -5,6 +5,7 @@ permalink: /decisionanalytics/
 date: 2020-01-25 08:32:08
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p>Warren B Powell – Princeton University</p>
 <p>Decision Analytics is the next phase of artificial intelligence – using machines to make decisions, in real world, dynamic environments under different sources of uncertainty. </p>
@@ -38,3 +39,4 @@ date: 2020-01-25 08:32:08
 <p> </p>
 <p> </p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /howtoteachoptimizationvideo/
 date: 2026-01-29 13:01:44
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;">Warren B. Powell<br />Professor Emeritus, Princeton University</p>
 <p>This talk is based on a presentation with the same title I gave to the Operations Research and Industrial Engineering (ORIE) Department at Cornell University, April, 2025.  I have recorded the talk in four parts:</p>
@@ -21,3 +22,4 @@ date: 2026-01-29 13:01:44
 </ul>
 <p> </p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /energystorage/
 date: 2020-11-21 15:07:28
 ---
 
+{% raw %}
 <!-- wp:paragraph -->
 <p>Energy storage is both disarmingly simple and astonishing rich.  This page summarizes my research into models and algorithms for controlling a wide array of energy storage problems.  "Energy storage" is a form of inventory problem, and has taught me quite a bit about complex supply chain problems.</p>
 <!-- /wp:paragraph -->
@@ -420,3 +421,4 @@ date: 2020-11-21 15:07:28
 <!-- wp:paragraph -->
 <p><a href="https://castle.princeton.edu/wp-content/uploads/2020/11/shridharan_madhumitha_thesis-May-5-2020.pdf">Madhumitha Shridharan “The Little Wind Farm that Could: A Comparative Analysis of Lookahead Policies for Energy Storage Problems,” Undergraduate senior thesis (supervised by Warren Powell), Department of Operations Research and Financial Engineering, Princeton University, May, 2020.</a></p>
 <!-- /wp:paragraph -->
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /what-is-rl/
 date: 2021-04-22 13:41:39
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;">Warren B Powell<br />Professor Emeritus, Princeton University<br />Chief Analytics Officer, Optimal Dynamics</p>
 <p>Recently, the study of sequential decision problems have been grouped under a growing umbrella of research called “reinforcement learning.”  The problem today is that when you say you are going to solve a problem with “reinforcement learning” (or you want to take a course in “reinforcement learning”), not even specialists in the field know what this is. (Side note: a student in my grad course on this topic described “reinforcement learning” as “stochastic optimization without the math”!)</p>
@@ -119,3 +120,4 @@ date: 2021-04-22 13:41:39
 <p> </p>
 <p> </p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

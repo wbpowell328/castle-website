@@ -5,6 +5,7 @@ permalink: /cfarebuttal/
 date: 2021-09-02 11:20:28
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p>Warren B. Powell<br>Professor Emeritus, Princeton University</p>
 <!-- /wp:tadv/classic-paragraph -->
@@ -57,3 +58,4 @@ date: 2021-09-02 11:20:28
 <p>In the 1990's, I served for eight years as an Area Editor for Operations Research.  I introduced the process of sending reviews to authors before I made my final decision.  This is easy to do, and does not place a significant burden on reviewers or the editorial staff.  This process would have gone a long way toward avoiding the problems Saeed and I have encountered with this paper.</p>
 <p> </p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

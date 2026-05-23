@@ -5,6 +5,7 @@ permalink: /sdamodeling/
 date: 2022-01-29 09:47:01
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;">Warren B. Powell<br>Professor Emeritus, Princeton University<br>Chief Innovation Officer, Optimal Dynamics</p>
 <!-- /wp:tadv/classic-paragraph -->
@@ -47,3 +48,4 @@ date: 2022-01-29 09:47:01
 <p> </p>
 <p> </p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

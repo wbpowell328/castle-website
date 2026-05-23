@@ -5,6 +5,7 @@ permalink: /papers/
 date: 2017-07-16 23:48:05
 ---
 
+{% raw %}
 <strong>Research papers:</strong>
 
 <strong>Our research focuses on three dimensions: modeling (the translation of physical problems into mathematics), algorithms (covering both theoretical and experimental research), and implementation. For a list of recent papers that are primarily theoretical, <a href="https://castle.princeton.edu/castle-lab-theory/">click here</a>. Some papers are listed under multiple headings. Where available, we have provided downloadable versions of papers. </strong>
@@ -52,3 +53,4 @@ date: 2017-07-16 23:48:05
  	<li><strong>Stories from the field</strong></li>
 </ul>
 &nbsp;
+{% endraw %}

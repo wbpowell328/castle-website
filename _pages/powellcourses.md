@@ -5,6 +5,7 @@ permalink: /powellcourses/
 date: 2025-04-01 11:01:13
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p>Over my 39 years of teaching at Princeton, I realized after I retired that I had taught 16 different lecture courses, plus two graduate seminars.  I sometimes re-used a course number, but I only count it as a different course if there was a new title and entirely new content. Only four of the courses used an existing textbook.  I wrote four books for four other courses.</p>
 <!-- /wp:tadv/classic-paragraph -->
@@ -94,3 +95,4 @@ date: 2025-04-01 11:01:13
 <!-- /wp:list -->
 
 <!-- wp:tadv/classic-paragraph /-->
+{% endraw %}

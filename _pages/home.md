@@ -5,6 +5,7 @@ permalink: /home/
 date: 2017-07-16 23:57:03
 ---
 
+{% raw %}
 As of Sept 1, 2020, I have retired from Princeton University.  I am now the Chief Innovation Officer of <a href="http://optimaldynamics.com">Optimal Dynamics</a> which licensed my library for truckload trucking and dynamic resource allocation.
 
 In 2021 I received the <a href="https://tinyurl.com/powellherman">Robert Herman Lifetime Achievement Award</a> from the Informs Society for Transportation Science and Logistics. In 2022 I won the Saul Gass Expository Writing Award by Informs (across all subdivisions).
@@ -43,3 +44,4 @@ Surrounding the core activities in methodology are laboratories focusing on majo
 I hope you find the material interesting, and perhaps useful. If you have any questions, <a href="mailto:wbpowell328@gmail.com">please contact me</a>.
 
 <a href="/biography/">Warren Powell</a>
+{% endraw %}

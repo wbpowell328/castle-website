@@ -5,6 +5,7 @@ permalink: /framingdecisionproblems/
 date: 2026-01-23 14:03:10
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;">Warren B. Powell</p>
 <p>"If you want a better {anything} you have to make better decisions."</p>
@@ -28,3 +29,4 @@ date: 2026-01-23 14:03:10
 <!-- /wp:tadv/classic-paragraph -->
 
 <!-- wp:tadv/classic-paragraph /-->
+{% endraw %}

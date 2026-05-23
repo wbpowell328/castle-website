@@ -5,6 +5,7 @@ permalink: /biography/
 date: 2017-09-07 10:58:08
 ---
 
+{% raw %}
 <p class="Font16" align="center"><strong>Warren B. Powell</strong></p>
 <p class="Font18" style="text-align: left;" align="center"><strong><img class="size-medium wp-image-5938 alignleft" src="https://castle.princeton.edu/wp-content/uploads/2020/03/Warren-Powell-v2-2018-cropped-234x300.jpg" alt="" width="234" height="300" />Biography </strong>It can become difficult to sort through almost 40 years of professional experience and identify the work that matters the most. Below is an attempt - I am sure this will evolve. This work could not have taken place without the contributions of over 60 graduate students and post-docs, and over 200 undergraduate senior theses. Of particular importance in my industrial work are the contributions of my long-time senior staff member, Dr. Hugo Simao.</p>
 
@@ -38,3 +39,4 @@ date: 2017-09-07 10:58:08
  	<li class="large">He has served in numerous leadership and service roles, including President of the Transportation Science Section, Informs board of directors, director of several NSF workshops, chair of the 2016 conference for the Informs Optimization Society, Area Editor for transportation at Operations Research (8 years!), and numerous prize, review and service committees. In 1991 he co-founded the triennial conference TRISTAN, now the leading international conference for transportation systems analysis. In 2003 he designed the Informs Impact Prize and served as the first chair in 2004.</li>
  	<li class="large"><a href="https://tinyurl.com/powellcv">Click here for my full c.v.</a>  Note that I use this for reporting purposes, so it includes, among the usual chatter, everything that I have to put in various progress reports for funding agencies and the university.</li>
 </ul>
+{% endraw %}

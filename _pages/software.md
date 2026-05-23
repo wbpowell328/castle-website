@@ -5,6 +5,7 @@ permalink: /software/
 date: 2017-07-16 23:48:06
 ---
 
+{% raw %}
 <p class="large">Below are some general purpose routines that we have developed.</p>
 <p class="large"><a href="https://castle.princeton.edu/datasets/#molte">MOLTE - Modular, Optimal Learning Testing Environment</a> - This is a Matlab-based environment for comparing algorithms for offline and online learning with discrete alternatives.</p>
 <p class="large"><a href="https://castle.princeton.edu/datasets/#monotoneADP">Monotone ADP</a>-Approximate dynamic programming when the value function increases monotonically with respect to each state variable.</p>
@@ -36,3 +37,4 @@ date: 2017-07-16 23:48:06
 <p class="large"><a href="http://castle.princeton.edu/Papers/Li%20-%20KG%20policy%20for%20sparse%20additive%20belief%20model.pdf" target="_blank" rel="noopener">Yan Li, Han Liu, W.B. Powell, “The Knowledge Gradient Policy using a Sparse Additive Belief Model,”</a></p>
 <p class="large">The software can be downloaded from</p>
 <p class="large"><a href="http://castle.princeton.edu/html/html/software/Sparse-KG/SpKG_code_July42015.zip">Sparse-KG software</a></p>
+{% endraw %}

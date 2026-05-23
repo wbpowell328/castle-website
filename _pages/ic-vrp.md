@@ -5,6 +5,7 @@ permalink: /ic-vrp/
 date: 2023-01-20 10:59:30
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;">Warren B. Powell<br>Professor Emeritus, Princeton University<br>Chief Innovation Officer, Optimal Dynamics</p>
 <!-- /wp:tadv/classic-paragraph -->
@@ -28,3 +29,4 @@ date: 2023-01-20 10:59:30
 <p>Physical states can arise in other contexts that involve learning.  These problems might involve a wide array of inventory problems, supply chain problems, health applications and energy systems.</p>
 <p>A closely related problem is the "exploration vs. exploitation" problem of approximate dynamic programming, where learning about the value of being in a (typically physical) state requires visiting the state, where we are learning about the value of being in the physical state.  </p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

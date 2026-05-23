@@ -5,6 +5,7 @@ permalink: /books/
 date: 2017-09-06 09:19:48
 ---
 
+{% raw %}
 <strong>W.B. Powell, I.O. Ryzhov, <em>Optimal Learning</em>, John Wiley and Sons, 2012</strong>
 
 <em>Optimal Learning addresses the challenge of collecting information, when observations are time consuming and/or expensive. This book grew out of an undergraduate course, and the first twelve chapters are accessible to an advanced undergraduate audience. For more on optimal learning (including table of contents, downloadable software, and a number of downloadable research papers), go to <a href="http://optimallearning.princeton.edu/" target="_blank" rel="noopener">http://optimallearning.princeton.edu</a>.</em>
@@ -22,3 +23,4 @@ date: 2017-09-06 09:19:48
 <strong>J. Si, A. Barto, W.B. Powell and D. Wunsch (eds.), Learning and Approximate Dynamic Programming: Scaling up to the Real World, John-Wiley and Sons, New York, 2004. </strong>
 
 <em>This edited volume is based on the NSF workshop held in Playacar, Mexico in 2002. It represents the diversity of communities that are using, and contributing to, the general area of approximate dynamic programming.</em>
+{% endraw %}

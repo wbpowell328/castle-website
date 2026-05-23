@@ -5,6 +5,7 @@ permalink: /wagner/
 date: 2017-09-07 10:30:14
 ---
 
+{% raw %}
 <div align="center">
 
 <span class="medium" style="font-size: small;">2009 Daniel H. Wagner Prize</span>
@@ -42,3 +43,4 @@ date: 2017-09-07 10:30:14
 <p align="left"></p>
 
 </div>
+{% endraw %}

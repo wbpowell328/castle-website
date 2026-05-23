@@ -5,6 +5,7 @@ permalink: /modeling-and-problem-representation/
 date: 2017-09-06 10:57:04
 ---
 
+{% raw %}
 <strong>Marar, A. and W.B. Powell, “Combining Cost-Based and Rule-Based Knowledge in Complex Resource Allocation Problems,” IIE transactions Vol. 38 (2), pp. 159-172 2006.</strong>
 
 <em>Assume that we wish to solve a (static) resource allocation problem. We have a cost model, but it is not perfect. We also have observations of how resources (each described by a vector of attributes) behave in the field. However, the data from history is typically at a more aggregate level. For example: "team drivers like long loads", "high powered locomotives are best pulling merchandise trains" are examples of aggregate behaviors that we would like to replicate in a model, while also trying to minimize costs. </em>
@@ -46,3 +47,4 @@ date: 2017-09-06 10:57:04
 <strong>"Toward a Unified Framework for Real-Time Logistics Control," Military Journal of Operations Research, Vol. I, No. 4, Winter, 1996, pp. 69-79.</strong>
 
 <i>An early application of the DRiP framework for airlift operations.</i>
+{% endraw %}

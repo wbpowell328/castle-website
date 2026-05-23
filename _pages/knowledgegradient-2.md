@@ -5,6 +5,7 @@ permalink: /knowledgegradient-2/
 date: 2026-02-15 14:24:10
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;">Warren B Powell<br />Professor Emeritus, Princeton University</p>
 <!-- /wp:tadv/classic-paragraph -->
@@ -99,3 +100,4 @@ date: 2026-02-15 14:24:10
 <!-- /wp:tadv/classic-paragraph -->
 
 <!-- wp:tadv/classic-paragraph /-->
+{% endraw %}

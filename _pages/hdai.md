@@ -5,6 +5,7 @@ permalink: /hdai/
 date: 2020-05-25 20:02:01
 ---
 
+{% raw %}
 <!-- wp:heading -->
 <h2>High-dimensional AI for dynamic resource allocation </h2>
 <!-- /wp:heading -->
@@ -84,3 +85,4 @@ date: 2020-05-25 20:02:01
 <p>There is a vast literature on making decisions in the presence of uncertainty, which we call the <a href="http://jungle.princeton.edu">jungle of stochastic optimization</a>.  We have developed a unified framework that spans all of these communities.  In the process, we have found that all of the methods proposed in the academic literature, including those used in practice, can be organized under four broad classes of policies.  This will include anything already being used in practice.  This means the methods are practical and scalable to the complex problems that arise in practice.</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
+{% endraw %}

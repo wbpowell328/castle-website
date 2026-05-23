@@ -5,6 +5,7 @@ permalink: /applications/
 date: 2017-09-06 08:05:18
 ---
 
+{% raw %}
 <ul>
  	<li><a href="https://castle.princeton.edu/energy-systems-analysis/"><strong>Energy systems analysis</strong></a></li>
  	<li><a href="https://castle.princeton.edu/dynamic-fleet-management-trucking-rail-air/"><strong>Dynamic fleet management (trucking, rail, air)</strong></a></li>
@@ -17,3 +18,4 @@ date: 2017-09-06 08:05:18
  	<li><a href="https://castle.princeton.edu/traffic-and-public-transportation/"><strong>Traffic and public transportation</strong></a></li>
  	<li><a href="https://castle.princeton.edu/freight-demand-estimation/"><strong>Freight demand estimation</strong></a></li>
 </ul>
+{% endraw %}

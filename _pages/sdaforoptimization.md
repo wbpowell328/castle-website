@@ -5,6 +5,7 @@ permalink: /sdaforoptimization/
 date: 2025-11-13 14:27:31
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;">Warren B Powell<br>Professor Emeritus, Princeton University<br>Chief Innovation Officer, Optimal Dynamics</p>
 <p>&nbsp;</p>
@@ -20,3 +21,4 @@ date: 2025-11-13 14:27:31
 <p><a href="https://tinyurl.com/PowellVideoSDAforOpt5">Part 5: Teaching sequential decision analytics</a> - I close by making the point that the current books on making decisions over time (under uncertainty) are fragmented into different communities.  The universal framework offers a single model that covers all sequential decision problems, and any method for making decisions.  This creates visibility for the entire spectrum of approaches for making decisions, allowing people to choose the right approach for their application.</p>
 <p> </p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /service-network-design/
 date: 2017-09-06 10:57:04
 ---
 
+{% raw %}
 <i>Service network design covers the problem of when to move a truck that can carry multiple shipments. In a static setting, this produces large integer programming problems. In a dynamic setting, it creates batch service processes.</i>
 
 &nbsp;
@@ -52,3 +53,4 @@ Less-than-truckload networks require that shipments be routed over links where t
 <a href="http://castle.princeton.edu/Papers/Powell%20Sheffi%20-%20Design%20and%20implementation%20of%20an%20interactive%20opt%20system%20for%20ltl.pdf" target="_blank" rel="noopener"><i>(click here to download paper)</i></a>
 
 <strong>Powell, W.B. and Y. Sheffi, "The Load Planning Problem of Motor Carriers: Problem Description and a Proposed Solution Approach," Transportation Research, Vol. 17A, No. 6, pp. 471-480, (1983).</strong>
+{% endraw %}

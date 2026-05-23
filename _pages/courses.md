@@ -5,6 +5,7 @@ permalink: /courses/
 date: 2017-07-16 23:48:06
 ---
 
+{% raw %}
 The courses below all focus on the theme of making decisions over time under uncertainty.  These are topics that fall under the broad heading of "stochastic optimization" (or many other names - see <a href="http://jungle.princeton.edu">jungle.princeton.edu</a>), which is a topic traditionally taught at a very mathematical level.  Notably, two are taught at the undergraduate level.  The graduate course is designed for a broad audience, and typically draws students from a wide range of departments (and is open to undergraduates).
 
 In order of increasing complexity and sophistication, the themes of the courses are:
@@ -41,3 +42,4 @@ This course focuses on the challenges of making good decisions that balance "lea
 ORF 544 is a course that teaches a unified framework for stochastic optimization and learning, spanning classical fields such as stochastic search, dynamic programming, stochastic programming, and optimal (stochastic) control, and related fields including reinforcement learning/approximate dynamic programming, model predictive control, online computation, and decision trees. We consider both offline formulations (learning in the lab) and online (learning in the field), in a simple, integrated framework. Students will see how these diverse fields can be viewed from this common framework, opening up both new problem classes, as well as new solution approaches.
 
 The course will emphasize proper modeling, and the study of general computational frameworks rather than the highly specialized problems that yield analytical solutions. General modeling formulations will be illustrated with a wide range of applications drawn from different fields (depending on the makeup of the class), spanning business, economics, engineering, and the sciences. The course will be guided by extensive experience with computational work on a range of applications.
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /vehicle-routing-and-scheduling-problems/
 date: 2017-09-06 10:57:04
 ---
 
+{% raw %}
 <strong>Cheung, R. K.-M., N. Shi, W. B. Powell, and H. P. Simao, “An Attribute-Decision Model for Cross-Border Drayage Problem,” Transportation Research E: Logistics and Transportation Review, Volume 44, No. 2, pp. 217-234 (2008). (c) Elsevier</strong>
 
 <em>This paper illustrates a modeling and algorithmic strategy for multi-layered resource scheduling, using the context of the cross-border drayage problem. </em>
@@ -48,3 +49,4 @@ date: 2017-09-06 10:57:04
 <strong>Koskosidis, I.A. and W.B. Powell, "Clustering Algorithms for Consolidation of Customer Orders into Vehicle Shipments," Transportation Research, Vol. 26B, No. 5, pp. 365-379, 1992.</strong>
 
 <a href="http://castle.princeton.edu/Papers/Koskosidis%20and%20Powell%20-%20Clustering%20algorithms%20for%20consolidation%20of%20customer%20orders.pdf" target="_blank" rel="noopener">(Click here to download paper)</a>
+{% endraw %}

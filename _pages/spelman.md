@@ -5,6 +5,7 @@ permalink: /spelman/
 date: 2022-05-29 19:56:50
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p>Warren B Powell<br />Professor Emeritus, Princeton University (1981-2020) and Princeton '1977</p>
 <p>As a sophomore in 1974, I wrote a term paper for an architecture course on Spelman Hall.  Walking home from my 45th Reunion P-Rade, I could still remember some of the major points that I uncovered in the original architects justification for the design.  </p>
@@ -36,3 +37,4 @@ date: 2022-05-29 19:56:50
 <p> </p>
 <p>Perhaps someone can provide the notes justifying the Frank Gehry building that houses the Lewis Library, sitting right next to Fine Hall.  Ouch!</p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

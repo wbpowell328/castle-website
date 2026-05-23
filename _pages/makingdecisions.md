@@ -5,6 +5,7 @@ permalink: /makingdecisions/
 date: 2025-10-15 09:53:04
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;">Warren B. Powell<br>Professor emeritus, Princeton University<br>Chief Innovation Officer, Optimal Dynamics</p>
 <p>&nbsp;</p>
@@ -270,3 +271,4 @@ date: 2025-10-15 09:53:04
 <!-- wp:tadv/classic-paragraph /-->
 
 <!-- wp:tadv/classic-paragraph /-->
+{% endraw %}

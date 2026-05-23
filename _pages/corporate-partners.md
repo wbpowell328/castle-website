@@ -5,6 +5,7 @@ permalink: /corporate-partners/
 date: 2017-07-16 23:48:06
 ---
 
+{% raw %}
 CASTLE Laboratory could not survive without the active participation of its corporate partners. Our modeling methodology is based on the premise that the best information about how a company can and should be run rests with the people who work there every day.
 
 The Lab focuses on three dimensions of research: theory, laboratory experimentation, and field experimentation. We have not adopted the conventional paradigm of "theory and application." In our work, the testing of new ideas in actual physical settings is central to our work. Not surprisingly, the challenge of watching our systems run in the real world introduces issues that change fundamental modeling assumptions. Nowhere has this been more significant than the realization of the importance of information: changing information, missing information and bad information.
@@ -29,3 +30,4 @@ The Lab focuses on three dimensions of research: theory, laboratory experimentat
  	<li><strong>North American Van Lines</strong> - NAVL, best known for its household moving services, had three divisions in the 1980's: household moving, high value products (less-than-truckload trucking for computers) and truckload trucking (its Commercial Transport division). We worked with all three divisions. We were a finalist in the Franz Edelman competition with our implementation of a fleet management system for the commercial transport division.</li>
  	<li><strong>IU International</strong> - IU owned two national LTL carriers - Ryder Truckline, based in Jacksonville Florida, and Pacific Intermountain Express (P.I.E.). IU funded a research project at Princeton University which produced "APOLLO" - the first interactive optimization problem for network design in transportation. APOLLO became the foundation of a system that was implemented at Yellow Freight (over the 1986-1989 period) and became a product sold by the first consulting firm started by CASTLE Lab - the Princeton Transportation Consulting Group.</li>
 </ul>
+{% endraw %}

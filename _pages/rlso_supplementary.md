@@ -5,6 +5,7 @@ permalink: /rlso_supplementary/
 date: 2021-04-16 13:24:08
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p>This page contains different forms of supplementary material for <a href="http://tinyurl.com/RLandSO"><em>Reinforcement Learning and Stochastic Optimization: A unified framework for sequential decisions</em></a> (referred to below as RLSO).The page is a work in progress, although I anticipate steady additions (even after the book is published).</p>
 <h2>Companion document</h2>
@@ -27,3 +28,4 @@ date: 2021-04-16 13:24:08
 <p> </p>
 <p> </p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

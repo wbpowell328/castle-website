@@ -5,6 +5,7 @@ permalink: /sdamodelingsupplements/
 date: 2022-02-22 13:23:32
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p>This webpage provides supplementary material for the book <em>Sequential Decision Analytics and Modeling</em>.</p>
 <p>There are a number of exercises that will refer to python modules that can be accessed on github at <a href="https://tinyurl.com/sdagithub">https://tinyurl.com/sdagithub</a>. </p>
@@ -15,3 +16,4 @@ date: 2022-02-22 13:23:32
 <p><a href="https://castle.princeton.edu/wp-content/uploads/2022/02/Chapter8_electricity_prices.xlsx">Chapter8_electricity_prices</a></p>
 <p> </p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

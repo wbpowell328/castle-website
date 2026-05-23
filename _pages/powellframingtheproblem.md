@@ -5,6 +5,7 @@ permalink: /powellframingtheproblem/
 date: 2025-07-13 18:45:41
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;">Warren B. Powell<br />Professor Emeritus, Princeton University<br />Chief Innovation Officer, Optimal Dynamics</p>
 <p>On July 10 2025, I gave a presentation at Toyota's North American Headquarters with the title: </p>
@@ -26,3 +27,4 @@ date: 2025-07-13 18:45:41
 <p><a href="https://tinyurl.com/PowellVideoToyotaPart4">Part 4 - Making decisions</a> - I give a very brief overview of the four classes of policies (with no math!).  This material is being taught by only a few universities, but it is critical for solving the complex problems that arise in problem settings such as supply chain management (among others).  This part also covers the importance of including uncertainty in forecasts, along with the need to model the ability to make decisions in an uncertain future.</p>
 <p><a href="https://tinyurl.com/PowellVideoToyotaPart5">Part 5 - The path to digital automation</a> - I describe five steps in the path to implementing the process of making decisions. I recommend watching Part 2 before watching Part 5, but it is not essential.</p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

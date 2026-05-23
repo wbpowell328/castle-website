@@ -5,6 +5,7 @@ permalink: /rlvssda/
 date: 2023-02-27 20:00:30
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p>Warren B Powell<br />Professor Emeritus, Princeton University</p>
 <p>I have been working on stochastic optimization problems (more specifically, sequential decision problems) since 1981 when I started at Princeton, originally motivated by the challenge of optimizing fleets of trucks for the truckload trucking industry (simplistically you can think of this as Uber for freight).  My career would have me working on virtually every mode of freight transportation, along with the optimization of energy systems, health (public health and medical decisions), finance, e-commerce and optimal learning in materials science.</p>
@@ -161,3 +162,4 @@ date: 2023-02-27 20:00:30
 <!-- wp:tadv/classic-paragraph /-->
 
 <!-- wp:tadv/classic-paragraph /-->
+{% endraw %}

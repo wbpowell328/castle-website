@@ -5,6 +5,7 @@ permalink: /jungle/
 date: 2017-09-05 18:21:44
 ---
 
+{% raw %}
 <p class="medium" align="left"><span style="font-size: 12pt;">I send out frequent updates regarding my work on LinkedIn - if you are not a follower, please reach out and ask to join.</span></p>
 <p align="left"><span style="font-size: 12pt;">Some highlights:</span></p>
 
@@ -130,3 +131,4 @@ date: 2017-09-05 18:21:44
 <p class="medium" align="left"><span class="medium" style="font-size: 12pt;">We prefer the approach universally used in deterministic optimization where we formulate the problem first, and <em>then</em> we design methods to find a solution (in the form of a policy). But this requires accepting that in sequential problems, we are not looking for <em>decisions</em> (as we do in deterministic models), but rather <em>functions</em> (or policies). Classical strategies in stochastic optimization (which are described using familiar labels such as dynamic programming, stochastic programming, robust optimization and optimal control) actually represent particular classes of policies. So, to solve a problem using one of these approaches means you are actually choosing the class of policy before you have even started modeling the problem.</span></p>
 <span style="font-size: 12pt;">Warren Powell
 <a href="mailto:wbpowell328@gmail.com">wbpowell328@gmail.com</a></span>
+{% endraw %}

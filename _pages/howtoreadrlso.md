@@ -5,6 +5,7 @@ permalink: /howtoreadrlso/
 date: 2023-03-12 12:51:08
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p>Warren B. Powell<br />Professor Emeritus, Princeton University</p>
 <p>My book, <em>Reinforcement Learning and Stochastic Optimization (RLSO), </em>synthesizes 15<img class="size-medium wp-image-8089 alignright" src="https://castle.princeton.edu/wp-content/uploads/2023/03/Powell-RLSO-WIleyFrontCover-199x300.jpg" alt="" width="199" height="300" /> different fields that work on sequential decision problems, <em> </em>but there is a price: it is an 1100 page book.  </p>
@@ -59,3 +60,4 @@ date: 2023-03-12 12:51:08
 <p><strong>Step 6: Follow me on LinkedIn!</strong></p>
 <p>If you are not one of my followers already, be sure to follow me on LinkedIn where I post a steady series of thoughts and insights on sequential decision analytics and its applications.  <a class="pv-contact-info__contact-link link-without-visited-state t-14" href="https://www.linkedin.com/in/warrenbpowell">linkedin.com/in/warrenbpowell</a></p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

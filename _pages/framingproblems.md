@@ -5,6 +5,7 @@ permalink: /framingproblems/
 date: 2025-07-30 19:29:07
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;"><strong><br />Warren B. Powell</strong><br />Executive-in-residence, Rutgers University<br />Chief Innovation Officer, Optimal Dynamics<br />Professor emeritus, Princeton University</p>
 <p><img class="alignright size-medium wp-image-9231" src="https://castle.princeton.edu/wp-content/uploads/2025/12/Bridging-Vol-I-cover-202x300.jpg" alt="" width="202" height="300" /></p>
@@ -112,3 +113,4 @@ date: 2025-07-30 19:29:07
 <!-- /wp:tadv/classic-paragraph -->
 
 <!-- wp:tadv/classic-paragraph /-->
+{% endraw %}

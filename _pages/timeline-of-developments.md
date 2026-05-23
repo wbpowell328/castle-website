@@ -5,6 +5,7 @@ permalink: /timeline-of-developments/
 date: 2017-07-16 23:48:06
 ---
 
+{% raw %}
 A summary of major developments in CASTLE Labs over its history.
 <ul>
  	<li>1983 - Developed <a href="/superspin/">first interactive optimization model ("SuperSPIN")</a> for network design for less-than-truckload motor carriers. It was adopted by almost the entire LTL industry, and helped to stabilize LTL trucking in the post-deregulation era. SuperSPIN is still in production 40 years later (marketed by Manhattan Associates).</li>
@@ -35,3 +36,4 @@ A summary of major developments in CASTLE Labs over its history.
  	<li>2022 - Published <em><a href="https://tinyurl.com/sdamodeling/">Sequential Decision Analytics and Modeling: Modeling with Python</a>.  </em>This is an introductory book first used in an undergraduate course at Princeton, which uses a teach-by-example style.</li>
  	<li>2023 - Posted <a href="https://tinyurl.com/TeachingOpt"><em>A Modern Approach to Teaching Optimization</em></a> which presents a fundamentally new approach for teaching an introduction to optimization course for undergraduates or masters.</li>
 </ul>
+{% endraw %}

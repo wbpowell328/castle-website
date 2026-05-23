@@ -5,6 +5,7 @@ permalink: /traffic-and-public-transportation/
 date: 2017-09-06 10:57:04
 ---
 
+{% raw %}
 <em>These are papers from an earlier life. The most important papers from this era (actually, before I started my dissertation) were:</em>
 
 <strong>Powell, W.B. and Y. Sheffi, "The Convergence of Equilibrium Algorithms with Predetermined Step Sizes," Transportation Science, Vol. 16, No. 1, pp. 45-55, (1982). (c) Informs </strong>
@@ -36,3 +37,4 @@ date: 2017-09-06 10:57:04
 <strong>Powell, W.B. and Y. Sheffi, "A Probabilistic Model of Bus Route Performance," Transportation Science, Vol. 17, No. 4, pp. 376-404, (1983). (c) Informs</strong>
 
 <strong>Sheffi, Y. and W.B. Powell, "A Comparison of Stochastic and Deterministic Traffic Assignment Over Congested Networks," Transportation Research, Vol. 15B, No. 1, pp. 53-64, (1980).</strong>
+{% endraw %}

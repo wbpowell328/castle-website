@@ -5,6 +5,7 @@ permalink: /knowledgegradient/
 date: 2025-12-04 15:07:00
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;">Warren B Powell<br />Professor Emeritus, Princeton University</p>
 <p><br />In 2025, Peter Frazier, one of my former Ph.D. students, won the 2025 "Test of Time" award for his paper on the knowledge gradient for correlated beliefs that he performed while a Ph.D. student in my lab (2005-2008).  Much more than a best paper award, the "Test of Time" award represents the judgment of everyone who adopted this approach in the years since it first appeared (2008-2009).   </p>
@@ -92,3 +93,4 @@ date: 2025-12-04 15:07:00
 <!-- /wp:tadv/classic-paragraph -->
 
 <!-- wp:tadv/classic-paragraph /-->
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /multiagent-control/
 date: 2017-09-06 10:57:04
 ---
 
+{% raw %}
 <strong>Powell, W. B., A. George, J. Berger, A. Boukhtouta, “An adaptive-learning Framework for Semi-cooperative Multi-agent coordination,” SSCI 2011 ADPRL - 2011 IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning, Paris, April, 2011.</strong>
 
 <em>Complex problems involving multiple agents exhibit varying degrees of cooperation. The levels of cooperation might reflect both differences in information as well as differences in goals. In this research, we develop a general mathematical model for distributed, semi-cooperative planning and suggest a solution strategy which involves decomposing the system into subproblems, each of which is specified at a certain period in time and controlled by an agent. The agents communicate marginal values of resources to each other, possibly with distortion. We design experiments to demonstrate the benefits of communication between the agents and show that, with communication, the solution quality approaches that of the ideal situation where the entire problem is controlled by a single agent.</em>
@@ -22,3 +23,4 @@ date: 2017-09-06 10:57:04
 <em>We do a lot of work on very large scale problems in transportation. These are typically characterized by multiagent decision making, which also means multiagent information structures. This paper provides a fairly general model of the organization of information and decisions, and a method for decomposing and linking these decisions so that the individual agents, operating separately, produce near optimal overall solutions. </em>
 
 <a href="http://castle.princeton.edu/Papers/Shapiro%20Powell%20-%20Metastrategy%20for%20resource%20management%20based%20on%20inf%20decomposition.pdf" target="_blank" rel="noopener">(Click here to download paper)</a>
+{% endraw %}

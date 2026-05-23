@@ -5,6 +5,7 @@ permalink: /plasma/
 date: 2017-09-07 09:33:35
 ---
 
+{% raw %}
 <h3 class="font24" align="center"><strong>PLASMA</strong></h3>
 <p class="font24" align="center">Princeton Locomotive And Shop MAnagement System</p>
 <p class="font16" align="center"><a href="https://castle.princeton.edu/html/Papers/Bouazaiene-Ayari_PLASMA_TransportationScience_Online_August042014.pdf">Winner, Best paper prize, Society for Transportation Science and Logistics, 2015</a></p>
@@ -132,3 +133,4 @@ date: 2017-09-07 09:33:35
 <p class="large" align="left">Ricardo Fiorillo - Project manager for the larger LARS project, in which PLASMA is imbedded.</p>
 <p class="large" align="left">Sourav Das - Project analyst</p>
 <p class="large" align="left">Junxia (Jane) Chang - Project analyst</p>
+{% endraw %}

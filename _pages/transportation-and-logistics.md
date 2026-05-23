@@ -5,6 +5,7 @@ permalink: /transportation-and-logistics/
 date: 2017-09-07 10:18:43
 ---
 
+{% raw %}
 <p class="Font18">Freight transportation dominated our activities in the 1980's and 1990's, with projects running right up to 2020.  This problem class played an important formative role in our approach to modeling. Uncertainty is very important in freight transportation, and was central in our development of the tools of approximate dynamic programming for high dimensional stochastic optimization problems.</p>
 <p class="Font18">Some of our more notable activities have included:<img class="size-medium wp-image-7230 alignright" src="https://castle.princeton.edu/wp-content/uploads/2022/02/NS_locomotive-300x169.jpg" alt="" width="300" height="169" /></p>
 
@@ -19,3 +20,4 @@ date: 2017-09-07 10:18:43
 <p class="Font18">See <a href="http://castle.princeton.edu/impact/">impact on industry</a> for a complete list of projects.</p>
 <p class="Font18">In the late 1990's, our diversity of projects was the motivation behind the modeling framework known as the <em><a href="http://castle.princeton.edu/Papers/drtp.pdf" target="_blank" rel="noopener noreferrer">dynamic resource transformation problem </a></em><a href="http://castle.princeton.edu/Papers/drtp.pdf">(DRTP)</a>. Solving the stochastic, dynamic problems arising in this setting was the primary motivation behind our work to solve high dimensional dynamic programs using the modeling and algorithmic framework of <a href="http://adp.princeton.edu/">approximate dynamic programming</a>.</p>
 In 2016, Princeton granted an exclusively license to the software library behind this work to <a href="http://optimaldynamics.com">Optimal Dynamics</a>.  In 2020, Warren Powell retired from Princeton to help OD take this technology to industry.
+{% endraw %}

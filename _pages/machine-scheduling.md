@@ -5,6 +5,7 @@ permalink: /machine-scheduling/
 date: 2017-09-06 10:57:04
 ---
 
+{% raw %}
 <i>An important subclass of resource allocation problems fall under the general category of machine scheduling. These problems arise when there are resources that must be assigned to tasks over time. The machine scheduling literature focuses on problems where the "machines" (resources) are few and relatively (or completely) homogeneous.</i>
 
 &nbsp;
@@ -28,3 +29,4 @@ date: 2017-09-06 10:57:04
 <strong>Chen, Z.L. and W.B. Powell, “Exact Algorithms for Scheduling Multiple Families of Jobs on Parallel Machines,” Naval Research Logistics, Vol. 50, No. 7, pp. 823-840, 2003.</strong>
 
 &nbsp;
+{% endraw %}

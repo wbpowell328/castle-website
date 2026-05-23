@@ -5,6 +5,7 @@ permalink: /warren-powells-senior-theses/
 date: 2025-06-03 15:42:06
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p>Below is the list of the 202 senior theses I supervised from 1993-2020.  I did not record my theses early in my career - I was so focused on publications that I didn't recognize the significant effort that went into this important dimension of the Princeton undergraduate education.  There are also four junior independent work papers listed.</p>
 <p>From 2008 to 2019, I also supervised 42 summer interns, primarily on energy projects.</p>
@@ -205,3 +206,4 @@ date: 2025-06-03 15:42:06
 <!-- /wp:tadv/classic-paragraph -->
 
 <!-- wp:tadv/classic-paragraph /-->
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /computational-stochastic-optimization/
 date: 2017-09-07 09:55:42
 ---
 
+{% raw %}
 <p align="center"><strong>Warren B. Powell</strong>
 <a href="http://www.castle.princeton.edu/" target="_blank" rel="noopener">http://www.castle.princeton.edu </a></p>
 <p class="large" align="left">Computational stochastic optimization represents an effort to create an umbrella over the many communities of stochastic optimization. This website is intended to introduce people to the different fields of stochastic optimization, while also identifying important bridges between communities.</p>
@@ -244,3 +245,4 @@ date: 2017-09-07 09:55:42
 <p class="large">I am trying to compile links to course websites on stochastic optimization. These may be regular courses or short courses. If you have a course you would like to add to the list, please send me the link.</p>
 <p class="large"><a href="https://castle.princeton.edu/orf-544/" target="_blank" rel="noopener">ORF 569 - Computational stochastic optimization</a> Princeton University - This is a graduate seminar I have been teaching at Princeton. It includes scribed lectures along with a lot of downloadable material.</p>
 &nbsp;
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /optimal-learning-2/
 date: 2023-11-14 11:25:50
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p align="left"><strong><a href="http://www.amazon.com/Optimal-Learning-Wiley-Probability-Statistics/dp/0470596694/ref=sr_1_3?ie=UTF8&amp;qid=1328538977&amp;sr=8-3"><img src="http://optimallearning.princeton.edu/images/frontcover.jpg" width="259" height="323" align="right" /></a></strong><strong>Optimal learning addresses the challenge of how to collect information as efficiently as possible, primarily for settings where collecting information is time consuming and expensive. Some sample applications include:</strong></p>
 <ul>
@@ -397,3 +398,4 @@ date: 2023-11-14 11:25:50
 <div align="left"><em><a href="http://optimallearning.princeton.edu/Papers/Wang%20-%20Finite%20time%20analysis%20for%20the%20knowledge%20gradient%20policy.pdf">(click here to download paper)</a></em></div>
 </blockquote>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /impact-on-industry/
 date: 2017-07-16 23:48:06
 ---
 
+{% raw %}
 CASTLE Lab prides itself on its ability to have an impact on industry. We do this in several ways. Most important is our direct participation in the development of systems to be used by our corporate sponsors. This work is done completely through Princeton University by research staff working in the department of Operations Research and Financial Engineering.
 
 These projects range from real-time optimization and short-term tactical planning to strategic simulators for analyzing the dynamics of operations. While the details of these projects are often confidential, we do our best to write papers summarizing this work. Over $24 million in research funding (since the founding of CASTLE Lab) is testament to the faith that our sponsors have put into our efforts.
@@ -78,3 +79,4 @@ Netjets operates over 500 jets. We developed two models: a detailed optimization
 A model designed to capture tradeoffs between field inventory locations and central distribution centers, managing over 1,000 spare parts under strict budget constraints.
 <h3>The Multilayered-Resource Scheduling Problem</h3>
 In collaboration with <strong>Air Products and Chemicals</strong>, we developed a system for simultaneously routing drivers, tractors, trailers, and chemical products while observing complex business rules.
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /statevariables/
 date: 2022-04-04 15:32:46
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p>Warren B. Powell</p>
 <p>Fundamental to sequential decision problems is the concept of a state variable.  Astonishingly, there are entire communities that deal with sequential decision problems that use the term "state variable" (or state space) without offering a proper definition (although some think they do).  </p>
@@ -81,3 +82,4 @@ date: 2022-04-04 15:32:46
 <p>What we do is to replace the information with a probabilistic belief.  This may be based on frequentist or Bayesian modeling, which means it has to be more than just a point estimate - it has to include a probability distribution of the missing information.</p>
 <p> </p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /teachingoptimization/
 date: 2023-07-28 12:08:17
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;"><strong>Warren B. Powell</strong><br>Professor Emeritus, Princeton University<br>Chief Innovation Officer, Optimal Dynamics</p>
 <!-- /wp:tadv/classic-paragraph -->
@@ -55,3 +56,4 @@ date: 2023-07-28 12:08:17
 <p> </p>
 <p> </p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}

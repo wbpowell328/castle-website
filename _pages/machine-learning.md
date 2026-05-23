@@ -5,6 +5,7 @@ permalink: /machine-learning/
 date: 2017-09-05 17:47:05
 ---
 
+{% raw %}
 <em>Our pursuit of approximate dynamic programming has brought us into the field of machine learning. Although our original intent was to develop methods to approximate value functions, this work has taken us into new areas.</em>
 <div align="center">
 <p align="left"><strong>L. Hannah, D. Blei and W. B. Powell, “Dirichlet Process Mixtures of Generalized Linear Models,” J. Machine Learning Research, Vol. 12, pp. 11923-1953, 2011.</strong></p>
@@ -41,3 +42,4 @@ We propose Dirichlet Process-Generalized Linear Models (DP-GLM), a new method of
 <em><a href="http://castle.princeton.edu/Papers/George%20Powell%20Kulkarni%20-%20Value%20function%20approx%20using%20multiple%20aggregation-JMLR_Oct022008.pdf" target="_blank" rel="noopener">(click here to download paper)</a></em>
 
 &nbsp;
+{% endraw %}

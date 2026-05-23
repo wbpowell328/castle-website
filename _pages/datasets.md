@@ -5,6 +5,7 @@ permalink: /datasets/
 date: 2017-07-16 23:48:06
 ---
 
+{% raw %}
 <p class="medium">This webpage offers a series of benchmark problems for testing ADP/RL algorithms. In each we have found the *optimal* policy by creating and solving a discrete version of the problem.</p>
 <p class="medium">We have found that popular algorithms based on using various machine learning algorithms can work surprisingly poorly on classical inventory/storage problems. See</p>
 <a href="http://castle.princeton.edu/Papers/Jiang%20et%20al%20-%20Comparison%20of%20ADP%20Techniques%20-%20Does%20anything%20work.pdf" target="_blank" rel="noopener">Daniel Jiang, Thuy Pham, Warren B. Powell, Daniel Salas, Warren Scott, “A Comparison of Approximate Dynamic Programming Techniques on Benchmark Energy Storage Problems: Does Anything Work?,” IEEE Symposium Series on Computational Intelligence, Workshop on Approximate Dynamic Programming and Reinforcement Learning, Orlando, FL, December, 2014.</a>
@@ -80,3 +81,4 @@ This is a series of benchmarked energy storage datasets prepared by Warren Scott
 The optimal stopping datasets, with complete software and documentation, can be downloaded from
 
 <a href="http://castle.princeton.edu/html/Datasets/OptimalStopping.zip">Optimal stopping datasets</a>
+{% endraw %}

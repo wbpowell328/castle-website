@@ -5,6 +5,7 @@ permalink: /howtoteachoptimization/
 date: 2025-08-25 19:00:41
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p style="text-align: center;">Warren B. Powell<br />Professor Emeritus, Princeton University<br />Executive-in-Residence, Rutgers University<br />Chief Innovation Officer, Optimal Dynamics</p>
 <p>I have been spending some time thinking about how we should teach optimization, where I view "optimization" as the science of making good decisions, not just a course in linear programming (etc).  Instead of focusing on how to teach advanced methods, I am more interested in teaching students how to approach the decision problems they will actually face.  The ideas I have accumulated below are designed for undergraduates or master's students, or for doctoral students in an application field. </p>
@@ -79,3 +80,4 @@ date: 2025-08-25 19:00:41
 <!-- /wp:tadv/classic-paragraph -->
 
 <!-- wp:tadv/classic-paragraph /-->
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /people/
 date: 2017-07-16 23:48:06
 ---
 
+{% raw %}
 <p align="center"><em>"Take care of your students, and the research will take care of itself."</em></p>
 <img class=" wp-image-5938 alignleft" src="https://castle.princeton.edu/wp-content/uploads/2020/03/Warren-Powell-v2-2018-cropped-234x300.jpg" alt="" width="136" height="175" />Warren B. Powell is the founder and director of <a href="http://www.castle.princeton.edu/" target="_blank" rel="noopener noreferrer">CASTLE Labs</a>, and <a href="http://energysystems.princeton.edu/" target="_blank" rel="noopener noreferrer">PENSA</a>, the Princeton Laboratory for ENergy Systems Analysis. He has taught at Princeton since 1981, and retired September 1, 2020.
 
@@ -100,3 +101,4 @@ date: 2017-07-16 23:48:06
  	<li>Derek Gittoes, 1994, “A Generalized Labeling Algorithm for Solving the Dynamic Assignment Problem.”</li>
  	<li>Mary-Ellen Noyes, 1993, “Validation and Testing of a Stochastic, Dynamic Fleet Management System.”</li>
 </ul>
+{% endraw %}

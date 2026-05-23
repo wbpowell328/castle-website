@@ -5,6 +5,7 @@ permalink: /micromap/
 date: 2017-09-07 10:39:37
 ---
 
+{% raw %}
 <span style="font-size: 12pt;"><strong>MicroMAP - Real-time load matching and pricing for truckload trucking</strong></span>
 
 <span style="font-size: 12pt;">Warren B. Powell
@@ -43,3 +44,4 @@ Princeton University</span>
 &nbsp;
 
 &nbsp;
+{% endraw %}

@@ -5,6 +5,7 @@ permalink: /superspin/
 date: 2017-09-07 10:31:19
 ---
 
+{% raw %}
 <span style="font-size: 12pt;"><strong>SuperSPIN - Interactive optimization for less-than-truckload trucking</strong></span>
 
 <span style="font-size: 12pt;">Warren B. Powell
@@ -41,3 +42,4 @@ Princeton University</span>
 <span style="font-size: xx-small;"><span style="font-size: 12pt;">PTCG turned SuperSPIN into a professional software product and service. SuperSPIN was ultimately adopted by virtually every major LTL carrier, although some companies used it with more sophistication than others. SuperSPIN played a role in the planning of Roadway Package System, which would later become FedEx Ground, as well as the LTL carriers that would later become Fedex Freight (the LTL devision of FedEx). SuperSPIN was used at Overnight Transportation, which is now UPS Freight. PTCG was later bought out by Manhattan Associates.</span> </span>
 
 &nbsp;
+{% endraw %}

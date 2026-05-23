@@ -5,6 +5,7 @@ permalink: /deterministic-optimization/
 date: 2017-09-05 17:47:05
 ---
 
+{% raw %}
 <strong>Chen, Z.-L. and W.B. Powell, "A Note on Bertsekas' Small-Label-First Strategy," Networks, Vol. 29, No. 2, pp. 111-116 (1997).</strong>
 
 <i>A neat little technical result showing that an algorithm by Bertsekas is NP, and how it can be easily fixed.</i>
@@ -34,3 +35,4 @@ date: 2017-09-05 17:47:05
 <a href="http://castle.princeton.edu/Papers/Powell-Sensitivity%20results%20for%20linear%20networks.pdf" target="_blank" rel="noopener"><i>(click here to download paper)</i></a>
 
 &nbsp;
+{% endraw %}

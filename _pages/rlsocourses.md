@@ -5,6 +5,7 @@ permalink: /rlsocourses/
 date: 2022-03-24 08:53:56
 ---
 
+{% raw %}
 <!-- wp:tadv/classic-paragraph -->
 <p>This webpage is designed to help you design teaching material for courses in sequential decision analytics. This material is suitable for a wide range of audiences:</p>
 <ul>
@@ -186,3 +187,4 @@ date: 2022-03-24 08:53:56
 <p>Once these questions are answered, you can start introducing the analytic notation for the five components of a sequential decision problem.  Note that there is no real theory here - it is just assigning variable names to the different components.  I recommend accompanying the analytical model with a spreadsheet (for simpler problems) to make the point that any spreadsheet can be translated to an analytical model - analytics is just a language.  But spreadsheets have limitations, and software of any form can be hard to read if you want to understand relationships.</p>
 <p>You can follow the style I use in the book chapters, but adapt the presentation to your own business problems.</p>
 <!-- /wp:tadv/classic-paragraph -->
+{% endraw %}
